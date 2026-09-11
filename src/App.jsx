@@ -7,6 +7,12 @@ function App() {
 
   return (
     <>
+
+    {/* [eta akta prisma file er code...sob error/red mark gula ignore....just see ur logic/core code] */}
+
+
+
+
     {/* catchAsync */}
     {/* kibabe  prisma te backend e catchAsync e use kore  tar code */}
     {/* 1.eta prisma te akta src/app ba src er vitore utiles folder baniye ba onno jekono folder banano nijer sobider te */}

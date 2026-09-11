@@ -8,7 +8,7 @@ function App() {
   return (
     <>
 
-    {/* [eta akta prisma file er code...sob error/red mark gula ignore....just see ur logic/core code] */}
+   NOTE: {/* [eta akta prisma file er code...sob error/red mark gula ignore....just see ur logic/core code] */}
 
 
 
